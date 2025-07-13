@@ -1,6 +1,6 @@
 ### Sobre mim 💬
 - Estudante de Ciência da Computação na Universidade Federal da Bahia.
-- Assessora estratégica na TITAN - Empresa Júnior de Engenharia da Computação da UFBA.
+- Gerente estratégica na TITAN - Empresa Júnior de Engenharia da Computação da UFBA.
 - Tenho interesse, especialmente, nas áreas de dados e back-end.
 
 ### Meta de aprendizado 📚
